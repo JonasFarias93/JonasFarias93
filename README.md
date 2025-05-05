@@ -18,7 +18,7 @@
 <h2 align="center" > Linguagens-Frameworks-Ferramentas </h2>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=django,python,html,css,vscode,github,figma,git,typescript" />
+  <img src="https://skillicons.dev/icons?i=django,python,html,css,vscode,github,git,typescript" />
 
 </div>
 
