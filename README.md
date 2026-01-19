@@ -1,44 +1,56 @@
+[![Website](https://img.shields.io/badge/Portfolio-jonasfg.com.br-0A1AFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jonasfg.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonas_Farias-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Instagram](https://img.shields.io/badge/Instagram-eunati.py-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eunati.py)
 
+---
 
+<h1 align="center">👋 Olá, eu sou Jonas Farias</h1>
+<h3 align="center">Engenheiro de Software • Full Stack • Python & Django</h3>
 
-[![Blog](https://img.shields.io/website?label=jonasfg.com.br&style=for-the-badge&url=https://jonasfg.com.br/)](https://jonasfg.com.br)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eunati.py)
+<p align="center">
+Sou desenvolvedor com foco em sistemas corporativos, automação de processos e arquitetura de software.
+Tenho experiência prática em projetos reais, aplicando boas práticas como Clean Code, TDD e Design de Sistemas escaláveis.
+</p>
 
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Seja+Bem+Vindo!+👋;Ao+GitHub+do+Jonas+Farias;" />
-</h1>
+---
 
-<div  align="Justify" >
-- Atualmente estou trabalhando como freelancer ...
-  <br>
-- Atualmente estou estudando Python, Django, HTML5 e CSS3
+## 🚀 Sobre mim
+
+- 🎓 Ciência da Computação — Full Stack  
+- 🏢 Analista de Desenvolvimento de Sistemas na RD Saúde  
+- 🧠 Foco em Backend, Arquitetura e Dados  
+- 🔁 Experiência com projetos corporativos e ambientes produtivos  
+- 📊 Forte atuação com automação e análise de dados  
+
+---
+
+## 🛠️ Stack Principal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,postgresql,js,html,css,git,github,linux" />
 </div>
 
-<h2 align="center" > Linguagens-Frameworks-Ferramentas </h2>
-<br>
-<div align="center" >
-  <img src="https://skillicons.dev/icons?i=django,python,html,css,vscode,github,git,typescript" />
+---
 
+## 📈 Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JonasFarias93&show_icons=true&theme=tokyonight" />
 </div>
 
-<br>
-<div align="center" >
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=JonasFarias93&show_icons=true&theme=calm_pink"
-    media="(prefers-color-scheme: dark)"
-  />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=JonasFarias93-debv&show_icons=true" />
-</picture>
-</div>
-<br>
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Volte+Sempre!!;" />
-</h1>
+---
 
+## 🎯 O que você encontrará aqui
 
+- Sistemas Web completos  
+- Arquitetura de Software  
+- Automação de processos  
+- Boas práticas de engenharia  
+- Projetos reais de negócio  
 
+---
 
-
+<p align="center">
+“Código bom não é o que funciona.  
+É o que continua funcionando.”
+</p>
