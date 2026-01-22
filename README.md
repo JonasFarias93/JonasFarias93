@@ -5,26 +5,37 @@
 ---
 
 <h1 align="center">👋 Olá, eu sou Jonas Farias</h1>
-<h3 align="center">Engenheiro de Software • Full Stack • Python & Django</h3>
+<h3 align="center">Engenharia de Software • Full Stack • Python & Django</h3>
 
 <p align="center">
-Sou desenvolvedor com foco em sistemas corporativos, automação de processos e arquitetura de software.
-Tenho experiência prática em projetos reais, aplicando boas práticas como Clean Code, TDD e Design de Sistemas escaláveis.
+Construo sistemas com foco em <b>domínio</b>, <b>arquitetura limpa</b> e <b>rastreabilidade</b> de decisões.
+Gosto de transformar problemas reais em software sustentável: testável, evolutivo e pronto para produção.
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🧭 Foco atual
 
-- 🎓 Ciência da Computação — Full Stack  
-- 🏢 Analista de Desenvolvimento de Sistemas na RD Saúde  
-- 🧠 Foco em Backend, Arquitetura e Dados  
-- 🔁 Experiência com projetos corporativos e ambientes produtivos  
-- 📊 Forte atuação com automação e análise de dados  
+- Backend com Python/Django e dados
+- Sistemas corporativos, automação e integrações
+- Qualidade: testes, refatoração, boas práticas e consistência de design
 
 ---
 
-## 🛠️ Stack Principal
+## 🧩 Projetos em destaque
+
+- **expansao360** ⭐  
+  Plataforma de gestão operacional com arquitetura, ADRs e governança do código  
+  → Python • Django • Arquitetura • Engenharia
+
+<!-- Quando estiver pronto, adicionamos os próximos -->
+<!-- - **python-clean-architecture-sample**
+  Exemplo enxuto de arquitetura limpa com testes e decisões registradas
+  → Python • Clean Architecture • Tests -->
+
+---
+
+## 🛠️ Stack principal
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,django,postgresql,js,html,css,git,github,linux" />
@@ -40,17 +51,6 @@ Tenho experiência prática em projetos reais, aplicando boas práticas como Cle
 
 ---
 
-## 🎯 O que você encontrará aqui
-
-- Sistemas Web completos  
-- Arquitetura de Software  
-- Automação de processos  
-- Boas práticas de engenharia  
-- Projetos reais de negócio  
-
----
-
 <p align="center">
-“Código bom não é o que funciona.  
-É o que continua funcionando.”
+“Código bom não é o que funciona. É o que continua funcionando.”
 </p>
