@@ -1,6 +1,6 @@
 [![Website](https://img.shields.io/badge/Portfolio-jonasfg.com.br-0A1AFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jonasfg.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonas_Farias-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Instagram](https://img.shields.io/badge/Instagram-eunati.py-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eunati.py)
+
 
 ---
 
