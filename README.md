@@ -46,14 +46,6 @@ Gosto de transformar problemas reais em software sustentável: testável, evolut
 
 ---
 
-## 📈 Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasFarias93&layout=compact&theme=tokyonight" />
-</div>
-
----
-
 <p align="center">
 "Código bom não é o que funciona. É o que continua funcionando."
 </p>
