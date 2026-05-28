@@ -49,7 +49,7 @@ Gosto de transformar problemas reais em software sustentável: testável, evolut
 ## 📈 Estatísticas
 
 <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=JonasFarias93&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasFarias93&layout=compact&theme=tokyonight)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasFarias93&layout=compact&theme=tokyonight" />
 </div>
 
 ---
